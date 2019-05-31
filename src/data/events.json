@@ -1,0 +1,58 @@
+[
+  {
+    "date": "3",
+    "day": "sunday",
+    "events": [
+      {
+        "time": "by 12:00",
+        "location": "Marriot Orlando",
+        "title": "Check-in & Registration",
+        "sub-title": "Check into PegaWORLD and register."
+      },
+      {
+        "time": "1:00 - 1:30",
+        "location": "Room J1",
+        "title": "Opening Remarks",
+        "theme": "main"
+      },
+      {
+        "time": "1:30 - 3:00",
+        "location": "Room J1",
+        "title": "Strategic Applications and Competitive Intelligence",
+        "theme": "strategy"
+      },
+      {
+        "time": "3:00 - 3:30",
+        "title": "Break",
+        "theme": "break"
+      },
+      {
+        "time": "3:30-4:30",
+        "location": "Room J1",
+        "title": "Customer Panel, Customer Centricity & Consulting",
+        "theme": "centricity"
+      },
+      {
+        "time": "4:30 - 5:15",
+        "location": "Room J1",
+        "title": "Key Messages, Customer Centricity & Consulting",
+        "theme": "centricity"
+      },
+      {
+        "time": "5:15 - 5:45",
+        "location": "Room J1",
+        "title": "Customer Experience - Don't Blow It!",
+        "theme": "cx"
+      },{
+        "time": "30 Mins",
+        "location": "Marriot Orlando",
+        "title": "Travel & Registration",
+        "theme": "travel"
+      },{
+        "time": "6:30",
+        "title": "Reception & Dinner",
+        "theme": "event"
+      }
+    ]
+  }
+]
